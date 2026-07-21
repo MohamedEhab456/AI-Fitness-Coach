@@ -28,6 +28,8 @@ A Multi-Agent AI Automation System built with n8n that delivers personalized fit
 
 ## Architecture
 
+![Workflow](workflow(2).png)
+
 The system uses a Supervisor Agent that understands user intent and routes every request to specialized AI Agents.
 
 The Workout Agent focuses only on fitness planning.
@@ -39,3 +41,21 @@ This architecture improves scalability, maintainability, and response quality.
 ## Status
 
 Project completed and continuously being improved.
+
+## Workflow Capabilities
+
+- Route requests using a Supervisor AI Agent
+- Generate personalized workout plans
+- Generate personalized nutrition plans
+- Analyze food images with AI
+- Analyze gym equipment images
+- Support voice and text conversations
+- Maintain conversation memory
+- Deliver multimodal AI interactions
+- Automate workflows using n8n
+
+## Demo
+
+🎥 Watch the complete project demonstration on LinkedIn:
+
+https://www.linkedin.com/posts/mohamed-ehab-automation_n8n-aiautomation-aiagents-ugcPost-7484974513894395904-xv0f/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGtKr4EBIKD0EJfXuoY2XIE31ngwD9ohTeU
