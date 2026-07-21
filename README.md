@@ -28,7 +28,7 @@ A Multi-Agent AI Automation System built with n8n that delivers personalized fit
 
 ## Architecture
 
-![Workflow](workflow (2).png)
+![Workflow](workflow.png)
 
 The system uses a Supervisor Agent that understands user intent and routes every request to specialized AI Agents.
 
